@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## About me
 
-I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioeingineerng and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
+I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioengineering and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
 
 My research interests lie in the intersection of cognitive neuroscience and neurorehabilitation.
 
