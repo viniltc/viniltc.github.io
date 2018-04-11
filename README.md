@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/viniltc/viniltc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova. I have been with the department since August 2014. My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioeingineerng and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie in the intersection of cognitive neuroscience and neurorehabilitation.
 
 ### Markdown
 
