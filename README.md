@@ -1,37 +1,23 @@
 ## Welcome to GitHub Pages
 
-I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova. I have been with the department since August 2014. My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioeingineerng and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
+I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioeingineerng and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
 
 My research interests lie in the intersection of cognitive neuroscience and neurorehabilitation.
 
-### Markdown
+### Professional experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Mar'18 - present: Postdoc @ Neurolab, University of Genova
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+- Nov'14 - Mar'18: Ph.D in Bioengineering and Robotics, University of Genova
 
-1. Numbered
-2. List
+- Jun'12 - Jul'14: M.S in Bioengineering, CMC Vellore, India
 
-**Bold** and _Italic_ and `Code` text
+- Aug'07 - Mar'11: B.Tech in Applied Electronics and Instrumentation Engineering, Mahatma Gandhi University, India
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viniltc/viniltc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [Neurolab](https://help.github.com/categories/github-pages-basics/), Dept. of Informatics, Bioengineering, Robotics and Systems Engineering (DIBRIS),University of Genova, Via Opera Pia 13, Genova-16145, Italy . <br/>
+ Ph: +393894980925 | Email: [viniltc@edu.unige.it](viniltc@edu.unige.it)
