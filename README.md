@@ -1,12 +1,12 @@
 ## About me
 
-I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at the University of Genova.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioengineering and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
+I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at [National Clinical FES Centre](http://www.salisburyfes.com/index.htm), Salisbury , UK.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioengineering and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
 
 My research interests lie in the intersection of cognitive neuroscience and neurorehabilitation.
 
 ### Professional experience
-
-- Mar'18 - present: Postdoc @ Neurolab, University of Genova
+- Dec'18 - Present: Postdoc @ National Clinical FES Centre, Salisbury
+- Mar'18 - Nov'18: Postdoc @ Neurolab, University of Genova
 
 
 ### Education
@@ -19,5 +19,5 @@ My research interests lie in the intersection of cognitive neuroscience and neur
 
 ### Contact
 
- [Neurolab](https://help.github.com/categories/github-pages-basics/), Dept. of Informatics, Bioengineering, Robotics and Systems Engineering (DIBRIS),University of Genova, Via Opera Pia 13, Genova-16145, Italy . <br/>
- Ph: +393894980925 | Email: <viniltc@edu.unige.it>
+ [Odstock Medical Ltd](https://www.odstockmedical.com/), The National Clinical FES Centre, Salisbury District Hospital, VSalisbury, SP2 8BJ, UK. <br/>
+ Ph: +44 7411573007 | Email: <vinil@odstockmedical.com>
