@@ -19,5 +19,5 @@ My research interests lie in the intersection of cognitive neuroscience and neur
 
 ### Contact
 
- [Odstock Medical Ltd](https://www.odstockmedical.com/), The National Clinical FES Centre, Salisbury District Hospital, VSalisbury, SP2 8BJ, UK. <br/>
+ [Odstock Medical Ltd](https://www.odstockmedical.com/), The National Clinical FES Centre, Salisbury District Hospital, Salisbury, SP2 8BJ, UK. <br/>
  Ph: +44 7411573007 | Email: <vinil@odstockmedical.com>
