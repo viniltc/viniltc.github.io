@@ -1,11 +1,12 @@
 ## About me
 
-I am Vinil Thekkedath Chackochan, Post-doctoral researcher  at [National Clinical FES Centre](http://www.salisburyfes.com/index.htm), Salisbury , UK.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioengineering and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
+I am Vinil Chackochan, Research Fellow and Biomedical Engineer @ Odstock Medical Ltd (OML). Previously I worked as  Post-doctoral researcher  at [National Clinical FES Centre](http://www.salisburyfes.com/index.htm), Salisbury , UK.  My basic degree is in Applied Electronics and Instrumentation Engineering, following which I completed my master's degree in Bioengineering and doctoral degree in Bioengineering and Robotics, focusing primarily in motor control.
 
 My research interests lie in the intersection of cognitive neuroscience and neurorehabilitation.
 
 ### Professional experience
-- Dec'18 - Present: Postdoc @ National Clinical FES Centre, Salisbury
+- Oct'22 - Present: Research Fellow and Biomedical Engineer @ Odstock Medical, Salisbury
+- Dec'18 - Aug'22: Postdoc @ National Clinical FES Centre, Salisbury & Bournemouth University
 - Mar'18 - Nov'18: Postdoc @ Neurolab, University of Genova
 
 
